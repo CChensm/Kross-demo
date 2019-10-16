@@ -8,10 +8,10 @@ phone: +880 2544 658 256
 address: 125/A, CA Commercial Area, California, USA
 
 menu:
-- {name: About, link: '{{site.baseurl}}/about/'}
-- {name: Blog, link: '{{site.baseurl}}/blog/'}
-- {name: Portfolio, link: '{{site.baseurl}}/portfolio/'}
-- {name: Contact, link: '{{site.baseurl}}/contact/'}
+- {name: About, link: 'site.baseurl/about/'}
+- {name: Blog, link: 'site.baseurl/blog/'}
+- {name: Portfolio, link: 'site.baseurl/portfolio/'}
+- {name: Contact, link: 'site.baseurl/contact/'}
 
 
 #-------------------------------
