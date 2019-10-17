@@ -9,9 +9,9 @@ address: 125/A, CA Commercial Area, California, USA
 
 menu:
 - {name: About, link: '/about/'}
-- {name: Blog, link: 'Kross-demo/blog/'}
-- {name: Portfolio, link: 'site.baseurl/portfolio/'}
-- {name: Contact, link: 'site.baseurl/contact/'}
+- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: 'portfolio/'}
+- {name: Contact, link: '/contact/'}
 
 
 #-------------------------------
